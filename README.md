@@ -1,12 +1,13 @@
 # springboot-demo-app
 
-A demo Spring Boot application showcasing basic setup and usage with GraphQL authentication.
+A simple Spring Boot demo application for testing.
 
-## 🚀 Features
-- Spring Boot 3.x
-- GraphQL API
-- Authentication using `token_auth`
-- PostgreSQL integration (via Spring Data JPA)
-- Lombok for reducing boilerplate code
+## 🚀 Getting Started
 
-## 📂 Project Structure
+### Prerequisites
+- Java 17+
+- Maven or Gradle
+
+### Run with Maven
+```bash
+mvn spring-boot:run
